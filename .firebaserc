@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "authfa-e654f": {
+      "hosting": {
+        "firebaseAuth": [
+          "authfa-e654f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "authfa-e654f"
+  }
+}
